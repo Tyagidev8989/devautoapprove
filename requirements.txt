@@ -1,0 +1,5 @@
+pyrogram==2.0.30
+TgCrypto==1.2.5
+pymongo[srv]
+dnspython==2.3.0
+aiofiles==23.1.0
