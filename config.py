@@ -8,7 +8,7 @@ class Config:
     
 
     ADMINS = [5606017879, 6012752629, 5558249587]
-    DB_URL = "mongodb+srv://Tyagidev999:tyagidev999@cluster0.mb0hjxa.mongodb.net/?retryWrites=true&w=majority"                    
+    DB_URL = "mongodb+srv://tyagidev8989:1212@dev@cluster0.h7y6ifi.mongodb.net/?retryWrites=true&w=majority"                    
     DB_NAME = "main"
 
     GIF = ['https://graph.org/file/2a8ff37310234bb666dee.jpg', 'https://graph.org/file/4d1c1981b6d8faa7238af.jpg',]
